@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AsyncUdpSocket.h"
 
 @interface ViewController : UIViewController
 
